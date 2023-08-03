@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "058A9433-F3CF-44B3-A366-B72D9444A2C6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E850DED-AEE6-4656-86B0-E6936FDFB531"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHubUsersTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "testgetUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E850DED-AEE6-4656-86B0-E6936FDFB531 - 163148e06a6c8c0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHubUsersTests.NetworkManagerTests.testgetUsers() -&gt; ()"
+                  moduleName = "GitHubUsersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neha-newos/Documents/Upload/GitHubUsers/GitHubUsersTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "619">
+               </Location>
+               <Location
+                  uuid = "1E850DED-AEE6-4656-86B0-E6936FDFB531 - 163148e06a6c8ce4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHubUsersTests.NetworkManagerTests.testgetUsers() -&gt; ()"
+                  moduleName = "GitHubUsersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neha-newos/Documents/Upload/GitHubUsers/GitHubUsersTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "218">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D01F0777-72E7-4938-B1AC-799008C606F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHubUsersTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "tearDown()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D01F0777-72E7-4938-B1AC-799008C606F6 - 291abbc2d190c664"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHubUsersTests.NetworkManagerTests.tearDown() -&gt; ()"
+                  moduleName = "GitHubUsersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neha-newos/Documents/Upload/GitHubUsers/GitHubUsersTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "171">
+               </Location>
+               <Location
+                  uuid = "D01F0777-72E7-4938-B1AC-799008C606F6 - 291abbc2d190c0eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitHubUsersTests.NetworkManagerTests.tearDown() -&gt; ()"
+                  moduleName = "GitHubUsersTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/neha-newos/Documents/Upload/GitHubUsers/GitHubUsersTests/NetworkManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "135">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C6D6288-A69F-4234-B441-9C2241E359C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHubUsersTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testgetUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AB1F2B7-A9DF-418A-8EC0-C6D050A39144"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitHubUsersTests/NetworkManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "testgetUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
